@@ -1,1 +1,1 @@
-This is just code that I compile to help other developers. Still under development.
+This is just code that I compile to help other developers. This is still under development
