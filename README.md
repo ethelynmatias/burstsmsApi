@@ -1,2 +1,2 @@
-This is just code that I compile to help other developers and just to simplify the codes. 
+Just to simplify the codes on connecting with BURST SMS API. 
 Burst SMS API Documentation link: https://burstsms.com/sms-api
