@@ -1,1 +1,1 @@
-This is just code that I compile to help other developers. This is still under development
+This is just code that I compile to help other developers. Burst SMS API Documentation link: https://burstsms.com/sms-api
